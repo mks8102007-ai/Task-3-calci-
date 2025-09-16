@@ -1,0 +1,17 @@
+body{
+    padding-top: 200px;
+    background-image:url(mks.jpeg);
+    background-size:cover;
+    row-gap: 50px;
+}
+button{
+    border-radius: 20px;
+    color: blue;
+    width: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+    height: 50px;
+}
+button:hover{
+    background-color: brown;
+}
